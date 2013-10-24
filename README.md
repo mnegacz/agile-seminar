@@ -1,4 +1,4 @@
 agile-seminar
 =============
 
-Examples prepared for agile seminar about JUnit
+Presentation and examples prepared for agile seminar about JUnit
